@@ -1,0 +1,12 @@
+ul { 
+  list-style-type: none; 
+  margin: 0;
+  padding: 0;
+}
+
+#results{
+  border: solid 1px;
+  margin: 0;
+  padding: 1px;
+  width: 7%;
+}
